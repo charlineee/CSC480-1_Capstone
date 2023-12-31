@@ -1,7 +1,7 @@
 package com.example.npsapp.data
 
 import com.example.npsapp.models.ParksResponse
-import com.example.npsapp.util.BASE_URL
+import com.example.npsapp.util.Constants.BASE_URL
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET

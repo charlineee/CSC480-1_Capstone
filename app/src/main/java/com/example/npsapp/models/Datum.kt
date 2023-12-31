@@ -1,6 +1,5 @@
 package com.example.npsapp.models
 
-import android.provider.MediaStore
 import com.google.gson.annotations.SerializedName
 
 data class Datum(
