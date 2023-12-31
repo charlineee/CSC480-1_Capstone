@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">NPSApp</string>
+    <string name="app_name">CSC480-1_Capstone</string>
+    <string name="title">Do Something Outside</string>
+    <string name="homescreen_first">I want to go</string>
+    <string name="homescreen_second">in</string>
+    <string name="home_button">Let\'s go!</string>
+    <string name="button_two">Visit Online</string>
+    <string name="empty_data">Sorry, nothing found</string>
 </resources>

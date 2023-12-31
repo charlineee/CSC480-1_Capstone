@@ -1,6 +1,5 @@
 package com.example.npsapp.viewmodels
 
-import android.provider.MediaStore
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.npsapp.models.Images

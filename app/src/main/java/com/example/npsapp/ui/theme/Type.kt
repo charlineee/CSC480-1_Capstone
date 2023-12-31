@@ -2,10 +2,16 @@ package com.example.npsapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
+import com.example.npsapp.R
 
+val lemonFontFamily = FontFamily(
+    Font(R.font.lemon_milk, FontWeight.Light),
+    Font(R.font.lemon_milk_medium, FontWeight.Medium)
+)
 // Set of Material typography styles to start with
 val Typography = Typography(
     bodyLarge = TextStyle(
